@@ -5,7 +5,7 @@
 I'm Mohammad Farwan, a passionate frontend developer with a love for crafting engaging and user-friendly web experiences. Here's a bit about me:
 
 
-- 🚀 Currently working as an intern at LTUC "Luminus Technical University College".
+- 🚀 Currently working as an intern at ASAC in LTUC "Luminus Technical University College".
 - 💻 Specializing in frontend technologies like HTML, CSS, JavaScript, and frameworks like React.
 - 🌐 Building responsive and intuitive user interfaces that leave a lasting impression.
 - 🎓 Graduated from Zarqa University with a bachelor's degree in Software Engineering.
